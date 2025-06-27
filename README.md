@@ -9,12 +9,16 @@
 ## 🚀 About Me
 
 🎯 **Jr. Front-End Developer | React.js** 
-🎓 **Student @ HMLS** | Based in **Cairo, Egypt** 📍  
+🎓 **Student @ HMLS** 
 🌱 **Currently Learning:** React.js & C++  
 👯 **Looking to collaborate on:** Frontend Projects  
 💬 **Ask me about:** Front-end Languages and Frameworks  
 📫 **Reach me at:** [haya.ehab.dev@gmail.com](mailto:haya.ehab.dev@gmail.com)  
 🌐 **Portfolio:** [haya-ehab.github.io/Portfolio](https://haya-ehab.github.io/Portfolio/)
+<br>
+🌐 **LinkedIn:** [https://www.linkedin.com/in/haya-ehab-72206a351/](https://www.linkedin.com/in/haya-ehab-72206a351/)
+
+
 
 ---
 
