@@ -1,37 +1,140 @@
-<h1 align="center">Hi, I'm Haya Ehab</h1>
-<h3 align="center">A Junior frontend developer</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hello+I'm+Haya+Ehab!" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haya-ehab" alt="haya-ehab" /></a> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Jr.+Front-End+Developer;Welcome+to+My+GitHub!" alt="Typing SVG" />
+</div>
 
-- 🌱 I’m currently learning **React, C++**
+## 🚀 About Me
 
-- 👯 I’m looking to collaborate on **Projects**
-
-- 👨‍💻 All of my projects are available at [https://haya-ehab.github.io/Portfolio/](https://haya-ehab.github.io/Portfolio/)
-
-- 💬 Ask me about **Front-end Languages and Frameworks**
-
-- 📫 How to reach me **haya.ehab.dev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/haya ehab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haya ehab" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/haya-ehab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haya-ehab" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=haya-ehab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=haya-ehab&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haya-ehab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎯 **Jr. Front-End Developer | React.js** 
+🎓 **Student @ HMLS** | Based in **Cairo, Egypt** 📍  
+🌱 **Currently Learning:** React.js & C++  
+👯 **Looking to collaborate on:** Frontend Projects  
+💬 **Ask me about:** Front-end Languages and Frameworks  
+📫 **Reach me at:** [haya.ehab.dev@gmail.com](mailto:haya.ehab.dev@gmail.com)  
+🌐 **Portfolio:** [haya-ehab.github.io/Portfolio](https://haya-ehab.github.io/Portfolio/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=haya-ehab&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-haya-ehab/haya-ehab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python" />
+</div>
+
+### 🎨 Frontend Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+</div>
+
+### 🔧 Tools & Platforms
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,npm" />
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haya-ehab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haya-ehab&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haya-ehab&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+### 📚 [Learnly](https://github.com/haya-ehab/Learnly)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+*Educational platform focused on interactive learning experiences*
+
+---
+
+### 🎨 [Portfolio Website](https://github.com/haya-ehab/Portfolio)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+*Personal portfolio showcasing my development journey and projects*  
+🔗 **Live Demo:** [haya-ehab.github.io/Portfolio](https://haya-ehab.github.io/Portfolio/)
+
+---
+
+### 🧁 [Bakery Website](https://github.com/haya-ehab/Bakery-Website)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+*Modern bakery website with TypeScript implementation*
+
+---
+
+### 🎉 [Eid Adha](https://github.com/haya-ehab/Eid-Adha)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+*Festive web application celebrating Eid Al-Adha*
+
+</div>
+
+---
+
+## 🎯 2025 Goals
+
+- [x] Learn JavaScript ES6+ features
+- [ ] Learn React
+- [ ] Start TypeScript journey
+- [ ] Learn C++ programming concepts
+- [ ] Contribute to open-source projects
+
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://haya-ehab.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/haya-ehab-72206a351)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haya.ehab.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haya-ehab)
+
+</div>
+
+---
+
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haya-ehab&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+  
+### 💼 Open for Opportunities | 🤝 Ready to Collaborate | 📧 Let's Build Something Amazing!
+
+![Profile Views](https://komarev.com/ghpvc/?username=haya-ehab&color=blueviolet&style=flat-square)
+![Followers](https://img.shields.io/github/followers/haya-ehab?label=Followers&style=social)
+
+</div>
+
+---
