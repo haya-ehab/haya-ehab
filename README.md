@@ -9,7 +9,9 @@
 ## 🚀 About Me
 
 🎯 **Jr. Front-End Developer | React.js** 
+<br>
 🎓 **Student @ HMLS** 
+<br>
 🌱 **Currently Learning:** React.js & C++  
 👯 **Looking to collaborate on:** Frontend Projects  
 💬 **Ask me about:** Front-end Languages and Frameworks  
