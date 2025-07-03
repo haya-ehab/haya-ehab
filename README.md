@@ -68,6 +68,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 *Educational platform focused on interactive learning experiences*
+<br>
+🔗 **Live Demo:** [https://haya-ehab.github.io/Learnly/](https://haya-ehab.github.io/Learnly/)
+
+
 
 ---
 
@@ -87,6 +91,9 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 *Modern bakery website with TypeScript implementation*
+<br>
+🔗 **Live Demo:** [https://haya-ehab.github.io/Bakery-Website/](https://haya-ehab.github.io/Bakery-Website/)
+
 
 ---
 
@@ -96,6 +103,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 *Festive web application celebrating Eid Al-Adha*
+<br>
+🔗 **Live Demo:** [https://haya-ehab.github.io/Eid-Adha/](https://haya-ehab.github.io/Eid-Adha/)
+
+
 
 </div>
 
