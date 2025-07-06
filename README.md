@@ -116,7 +116,7 @@
 - [ ] Learn React
 - [ ] Start TypeScript journey
 - [ ] Learn C++ programming concepts
-- [ ] Contribute to open-source projects
+- [x] Contribute to open-source projects
 
 
 ---
