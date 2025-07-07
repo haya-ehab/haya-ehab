@@ -129,6 +129,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/haya-ehab-72206a351)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haya.ehab.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haya-ehab)
+[![LeetCode](https://img.shields.io/badge/LeetCode-100000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/haya-ehab/)
 
 </div>
 
