@@ -12,7 +12,7 @@
 <br>
 🎓 **Student @ HMLS** 
 <br>
-🌱 **Currently Learning:** React.js & Python  
+🌱 **Currently Learning:** React.js & C++
 👯 **Looking to collaborate on:** Frontend Projects  
 💬 **Ask me about:** Front-end Languages and Frameworks  
 📫 **Reach me at:** [haya.ehab.dev@gmail.com](mailto:haya.ehab.dev@gmail.com)  
