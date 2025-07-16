@@ -114,7 +114,7 @@
 ## 🎯 2025 Goals
 
 - [x] Learn Advanced JavaScript 
-- [ ] Learn React
+- [x] Learn React
 - [ ] Start TypeScript journey
 - [ ] Learn C++ programming concepts
 - [x] Contribute to open-source projects
