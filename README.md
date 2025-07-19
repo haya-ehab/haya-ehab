@@ -18,7 +18,7 @@
 💬 **Ask me about:** Front-end Languages and Frameworks  
 📫 **Reach me at:** [haya.ehab.dev@gmail.com](mailto:haya.ehab.dev@gmail.com)  
 🌐 **Portfolio:** [haya-ehab.github.io/Portfolio](https://haya-ehab.github.io/Portfolio/)
-<br><br>
+<br>
 🌐 **LinkedIn:** [https://www.linkedin.com/in/haya-ehab-72206a351/](https://www.linkedin.com/in/haya-ehab-72206a351/)
 
 
