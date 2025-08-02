@@ -12,7 +12,7 @@
 <br>
 🎓 **Student @ HMLS** 
 <br>
-🌱 **Currently Learning:** React.js & C++
+🌱 **Currently Learning:** React.js & Cpp
 <br>
 👯 **Looking to collaborate on:** Frontend Projects  
 💬 **Ask me about:** Front-end Languages and Frameworks  
