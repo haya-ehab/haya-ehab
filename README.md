@@ -8,14 +8,14 @@
 
 ## 🚀 About Me
 
-🎯 **Jr. Front-End Developer | React.js** 
+🎯 **Jr. Full-Stack Developer**
 <br>
 🎓 **Student @ HMLS** 
 <br>
-🌱 **Currently Learning:** React.js & Cpp
+🌱 **Currently Learning:** Python & Cpp
 <br>
-👯 **Looking to collaborate on:** Frontend Projects  
-💬 **Ask me about:** Front-end Languages and Frameworks  
+👯 **Looking to collaborate on:** Full-Stack Projects  
+💬 **Ask me about:** Full-Stack Languages and Frameworks  
 📫 **Reach me at:** [haya.ehab.dev@gmail.com](mailto:haya.ehab.dev@gmail.com)  
 🌐 **Portfolio:** [https://hayas-portfolio.vercel.app/](https://hayas-portfolio.vercel.app/)
 <br>
@@ -115,8 +115,8 @@
 
 - [x] Learn Advanced JavaScript 
 - [x] Learn React
-- [ ] Start TypeScript journey
-- [ ] Learn C++ programming concepts
+- [x] Start TypeScript journey
+- [x] Learn C++ programming concepts
 - [x] Contribute to open-source projects
 
 
