@@ -8,6 +8,8 @@
 
 ## 🚀 About Me
 
+ 🤦‍♀️**I'm currently on a break, focusing on school.**
+ <br>
 🎯 **Jr. Full-Stack Developer**
 <br>
 🎓 **Student @ HMLS** 
@@ -61,14 +63,14 @@
 
 <div align="center">
 
-### 📚 [Learnly](https://github.com/haya-ehab/Learnly)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 📚 [Wisal](https://github.com/haya-ehab/Wisal)
+![REACT](https://img.shields.io/badge/REACT-E34F26?style=for-the-badge&logo=REACT&logoColor=white)
+![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-1572B6?style=for-the-badge&logo=TYPESCRIPT&logoColor=white)
+![TAILWIND](https://img.shields.io/badge/TAILWIND-F7DF1E?style=for-the-badge&logo=TAILWINDt&logoColor=black)
 
-*Educational platform focused on interactive learning experiences*
+*a meaningful digital legacy that connects generations.*
 <br>
-🔗 **Live Demo:** [https://haya-ehab.github.io/Learnly/](https://haya-ehab.github.io/Learnly/)
+🔗 **Live Demo:** [https://wisal-yhsi.vercel.app/](https://wisal-yhsi.vercel.app/)
 
 
 
