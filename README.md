@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
- 🤦‍♀️**I'm currently on a break, focusing on school.**
+ 🤦‍♀️ **I'm currently on a break, focusing on school.**
  <br>
 🎯 **Jr. Full-Stack Developer**
 <br>
